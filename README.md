@@ -1,7 +1,7 @@
 # Isabella Evans-Tovey Portfolio
 
 ## About Me
-Hi, I'm Isabella Evans-Tovey, currently pursuing a BSc in Mathematics at the University of Nottingham. I specialize in statistical analysis, coding, and data-driven solutions. I have professional experience in event management, legal services, and digital design, which allows me to bring a diverse skill set to any project. Welcome to my portfolio, where I showcase my academic work, project experience, and professional background.
+Hi, I'm Isabella Evans-Tovey, currently pursuing a BSc in Mathematics at the University of Nottingham. I specialise in statistical analysis, coding, and data-driven solutions. I have professional experience in event management, legal services, and digital design, which allows me to bring a diverse skill set to any project. Welcome to my portfolio, where I showcase my academic work, project experience, and professional background.
 
 ## Work Experience
 - **Food and Drink Manager**, Olerio Group (June 2022 – July 2024)
@@ -40,7 +40,7 @@ Hi, I'm Isabella Evans-Tovey, currently pursuing a BSc in Mathematics at the Uni
    - IGCSE: 8 Grades 9-8
 
 ## Skills
-- **Programming Languages**: Python, C# (in progress), R
+- **Programming Languages**: Python, C# (in progress)
 - **Software & Tools**: R Studio, Adobe Creative Suite (Photoshop, Illustrator), Figma (in progress), Google Analytics, Microsoft Office
 - **Design**: Digital Design (logos, brochures, branding)
 - **Data Science & Analysis**: Statistical Analysis, Machine Learning, Articifical Intelligence, Data Visualization
