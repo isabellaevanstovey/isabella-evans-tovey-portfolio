@@ -1,9 +1,9 @@
 # Isabella Evans-Tovey Portfolio
 
-## 👋 About Me
+## About Me
 Hi, I'm Isabella Evans-Tovey, currently pursuing a BSc in Mathematics at the University of Nottingham. I specialize in statistical analysis, coding, and data-driven solutions. I have professional experience in event management, legal services, and digital design, which allows me to bring a diverse skill set to any project. Welcome to my portfolio, where I showcase my academic work, project experience, and professional background.
 
-## 💼 Work Experience
+## Work Experience
 - **Food and Drink Manager**, Olerio Group (June 2022 – July 2024)
    - Managed 200 hospitality staff at prestigious events like Wimbledon Championships and Royal Ascot.
    - Oversaw high-pressure environments, coordinating stock management, staffing, and client service.
@@ -14,7 +14,7 @@ Hi, I'm Isabella Evans-Tovey, currently pursuing a BSc in Mathematics at the Uni
    - Attended trials and client meetings, observing the translation of legal frameworks into courtroom dynamics.
    - Developed attention to detail by reviewing complex contracts and legal documents.
 
-## 🚀 Featured Projects
+## Projects
 
 ### Project 1: Statistical Data Analysis
 - **Summary**: Currently part of a team project focused on analyzing large datasets to derive statistical insights.
@@ -28,25 +28,25 @@ Hi, I'm Isabella Evans-Tovey, currently pursuing a BSc in Mathematics at the Uni
 - **Summary**: Developed skills in analyzing user acquisition data to drive advertising strategies through Google Analytics.
 - **Key Skills**: User Behavior Tracking, Conversion Rate Optimization, Digital Marketing.
 
-## 🎓 Education
+## Education
 - **BSc Mathematics**, University of Nottingham (Sep 2022 – Present)
    - Focus on Statistical Analysis and Coding (algorithms, debugging).
    - Currently working on a team project centered around Statistical Data Analysis.
-   - Member of MathsSoc and Women in Computer Science.
+   - Member of MathsSoc.
 
 - **Wimbledon High School GDST** (Sep 2007 – July 2022)
    - A-Level: Mathematics, English, Art
    - AS-Level: Further Maths
    - IGCSE: 8 Grades 9-8
 
-## 🛠️ Skills
+## Skills
 - **Programming Languages**: Python, C# (in progress), R
 - **Software & Tools**: R Studio, Adobe Creative Suite (Photoshop, Illustrator), Figma (in progress), Google Analytics, Microsoft Office
 - **Design**: Digital Design (logos, brochures, branding)
 - **Data Science & Analysis**: Statistical Analysis, Machine Learning, Articifical Intelligence, Data Visualization
 
 
-## 📫 Get in Touch
+## Get in Touch
 - **Email**: ievanstovey@btinternet.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/isabellaevanstovey/)
 
