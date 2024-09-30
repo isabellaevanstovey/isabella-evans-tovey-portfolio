@@ -16,15 +16,15 @@ Hi, I'm Isabella Evans-Tovey, currently pursuing a BSc in Mathematics at the Uni
 
 ## 🚀 Featured Projects
 
-### [Project 1: Statistical Data Analysis]
+### Project 1: Statistical Data Analysis
 - **Summary**: Currently part of a team project focused on analyzing large datasets to derive statistical insights.
 - **Key Skills**: Data Analysis, Python, R, Statistical Modeling, Data Visualization.
 
-### [Project 2: Digital Design Course]
+### Project 2: Digital Design Course
 - **Summary**: Created digital designs and branding as part of the Digital Design Course at the University of Arts London.
 - **Key Skills**: Adobe Creative Suite (Photoshop, Illustrator), Branding, UX/UI Design, Team Collaboration.
 
-### [Project 3: Google Analytics Certification]
+### Project 3: Google Analytics Certification
 - **Summary**: Developed skills in analyzing user acquisition data to drive advertising strategies through Google Analytics.
 - **Key Skills**: User Behavior Tracking, Conversion Rate Optimization, Digital Marketing.
 
